@@ -22,7 +22,7 @@ public class Ex4 {
         System.out.println("3 - aby wyjść");
         int option = 0;
         do {
-            
+
             System.out.print("Wybierz opcje: ");
             option = Integer.parseInt(scanner.nextLine());
 
